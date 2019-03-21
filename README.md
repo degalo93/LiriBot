@@ -17,10 +17,16 @@ Ex:
 
 ![movie](images/Capture22.PNG)
 
+### Bands in Town
+
+![bands]()
+
 ### Songs
 
 ![songs](images/33333.PNG)
 
 If you do make a mistake when searching for something you will get a message with information on how to search and commands to use.
 
-One of the main issues that I manage to solve was a problem that I was having with the Spotify app where I kept getting an error but I fixed it by 
+One of the main issues that I manage to solve was a problem that I was having with the Spotify app where I kept getting an error but I fixed it by changing a mistake that I made within the .env file which has my spotify id and secret.
+
+

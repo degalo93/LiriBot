@@ -50,7 +50,7 @@ function concertThis() {
     axios.get(bandURL).then(
         function(response) {
             var bandData = response.data;
-            console.log("\nArtist" + userSearch + "\nVenue: " + bandData[0].venue.name + "\nLocation: " + bandData[0].venue.country + "\nDate: " + bandData[0].datatime);
+            console.log("\nArtist: " + userSearch + "\nVenue: " + bandData[0].venue.name + "\nLocation: " + bandData[0].venue.country + "\nDate: " + bandData[0].datatime);
         });
 }
 
